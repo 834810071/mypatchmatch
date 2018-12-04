@@ -27,4 +27,36 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\image\brick_pavement.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\brick_pavement_with_hole.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\forest.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\forest_pruned.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\sonne1.PNG">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\sonne2.PNG">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\unitobler.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\unitobler_with_hole.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\zurich.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\image\zurich_with_hole.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

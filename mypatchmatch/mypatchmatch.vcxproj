@@ -127,6 +127,18 @@
     <ClInclude Include="head.h" />
     <ClInclude Include="util.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\image\brick_pavement.jpg" />
+    <Image Include="..\image\brick_pavement_with_hole.png" />
+    <Image Include="..\image\forest.bmp" />
+    <Image Include="..\image\forest_pruned.bmp" />
+    <Image Include="..\image\sonne1.PNG" />
+    <Image Include="..\image\sonne2.PNG" />
+    <Image Include="..\image\unitobler.jpg" />
+    <Image Include="..\image\unitobler_with_hole.png" />
+    <Image Include="..\image\zurich.jpg" />
+    <Image Include="..\image\zurich_with_hole.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
